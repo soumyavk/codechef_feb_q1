@@ -1,1 +1,1 @@
-# codechef_feb_q1
+This is the solution of Codechef February 2021 question.
